@@ -1,0 +1,10 @@
+What is the first letter? 
+a
+What eats a mouse?
+cat
+What do dogs eat?
+bone
+What year is this?
+2017
+What is the president name?
+Trump
